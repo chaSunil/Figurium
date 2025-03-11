@@ -16,6 +16,9 @@ https://github.com/goss1997/figurium
 
 ## 해당 프로젝트에서 제가 작업한 내용을 간단하게 정리해보았습니다!!
 
+## 피규리움 시연영상
+https://www.youtube.com/watch?v=jBbnhelniFM
+
 ![001](https://github.com/user-attachments/assets/77e4e306-a599-4c8b-9de4-016be3ad5b67)
 <br/>
 
