@@ -1,5 +1,5 @@
 # Figurium
-웹사이트 주소 : https://www.figurium.shop/
+https://github.com/goss1997/figurium
 
 > 일반적인 쇼핑몰은 저리가라!
 > 우리는 서브컬쳐 장르인 피규어를 판매하는 쇼핑몰을 만든다.
